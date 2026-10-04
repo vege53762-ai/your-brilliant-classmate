@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+course-study/
+.env
+.env.*
+Thumbs.db
+.DS_Store

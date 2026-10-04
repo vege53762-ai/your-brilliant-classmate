@@ -1,0 +1,4 @@
+interface:
+  display_name: "你的天才同学 · Your Brilliant Classmate"
+  short_description: "从教材与课件检索原文截图，互动诊断作业错因，记录知识薄弱点并生成个性化期末复习"
+  default_prompt: "使用 $your-brilliant-classmate，基于我上传的课程资料答疑、检查作业，并持续记录学习情况。"
